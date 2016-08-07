@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="850" height="560">
+	
+	<style type="text/css">
+		rect { fill: black; }
+		path { fill: none; stroke-width: 2px; }
+		text { font-size: 13.5pt; font-weight: bold; font-family: "Helvetica Neue", "Helvetica", sans-serif; }
+		path.fy { stroke: #00CCFF; }	/* FY9 = blue */
+		path.el { stroke: #00FF00; }	/* EL61 = green */
+		path.pl { stroke: #FF0000; }	/* Pluto = red */
+		path.sub { stroke-opacity: 0.6; }
+		path#ecliptic { stroke: white; }
+		path#vernal { stroke: yellow; }
+		text.fy { fill: #00CCFF; }
+		text.el { fill: #00FF00; }
+		text.pl { fill: #FF0000; }
+		text.sub { fill-opacity: 0.75; }
+	</style>
+	
+	<defs>
+		<radialGradient cx="235.67" cy="42.88" r="1.54" fx="235.67" fy="42.88" id="gradient_FY5" gradientUnits="userSpaceOnUse">
+			<stop style="stop-color:#e6b088;" offset="0" />
+			<stop style="stop-color:#000000;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="294.19" cy="41.90" r="15.62" fx="294.19" fy="41.90" id="gradient_EL" gradientUnits="userSpaceOnUse" gradientTransform="scale(0.86,1.16)">
+			<stop style="stop-color:#e6e6e6;" offset="0" />
+			<stop style="stop-color:#000000;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="348.32" cy="45.72" r="1.66" fx="348.32" fy="45.72" id="gradient_EL5" gradientUnits="userSpaceOnUse" gradientTransform="scale(0.86,1.16)">
+			<stop style="stop-color:#e6e6e6;" offset="0" />
+			<stop style="stop-color:#000000;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="306.67" cy="43.24" r="19.36" fx="306.67" fy="43.24" id="gradient_FY" gradientUnits="userSpaceOnUse">
+			<stop style="stop-color:#e6b088;" offset="0" />
+			<stop style="stop-color:#000000;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="170.59" cy="108.85" r="1.42" fx="170.59" fy="108.85" id="gradient_Pluto0" gradientUnits="userSpaceOnUse">
+			<stop style="stop-color:#ffc497;" offset="0" />
+			<stop style="stop-color:#000000;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="111.28" cy="130.33" r="27.6" fx="111.28" fy="130.33" id="gradient_Pluto" gradientUnits="userSpaceOnUse">
+			<stop style="stop-color:#ffc497;" offset="0" />
+			<stop style="stop-color:#000000;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="152.94" cy="186.52" r="2.49" fx="152.94" fy="186.52" id="gradient_EL0" gradientUnits="userSpaceOnUse" gradientTransform="scale(0.86,1.16)">
+			<stop style="stop-color:#000000;" offset="0" />
+			<stop style="stop-color:#e6e6e6;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="173.63" cy="229.24" r="2.3" fx="173.63" fy="229.24" id="gradient_FY0" gradientUnits="userSpaceOnUse">
+			<stop style="stop-color:#000000;" offset="0" />
+			<stop style="stop-color:#e6b088;" offset="1" />
+		</radialGradient>
+		<radialGradient cx="249.53" cy="219.32" r="2.14" fx="249.53" fy="219.32" id="gradient_Pluto5" gradientUnits="userSpaceOnUse">
+			<stop style="stop-color:#000000;" offset="0" />
+			<stop style="stop-color:#ffc497;" offset="1" />
+		</radialGradient>
+	</defs>
+	
+	<rect x="0" y="0" width="850" height="560" />
+	
+	<path class="fy"     d="M 114.89,269.18 C 168.00,208.71 259.21,148.38 368.15,112.67 C 465.46,80.78 548.87,68.58 612.90,72.74" />
+	<ellipse             cx="312.61" cy="37.30" rx="11" ry="11" transform="scale(2,2)" style="fill:url(#gradient_FY);" />
+	<path class="pl sub" d="M 139.70,287.78 C 135.88,290.70 131.05,295.54 130.69,295.90 C 119.37,307.49 112.90,319.73 112.90,332.28 C 112.90,332.28 112.90,319.34 112.90,332.38 C 112.50,359.07 128.73,380.58 157.04,397.31" />
+	<path class="el sub" d="M 765.35,309.02 C 731.57,394.06 594.49,457.77 430.69,457.77 C 259.97,457.77 118.28,388.59 92.31,298.13" />
+	<path class="fy sub" d="M 653.75,317.10 C 650.89,319.54 647.68,321.91 647.56,322.00 C 604.41,355.58 551.11,386.47 493.95,410.57 C 279.09,501.19 100.87,476.32 69.59,398.76 C 55.89,364.30 72.50,319.23 110.84,273.89 C 110.98,273.72 112.74,271.65 114.83,269.30" />
+	<path class="el"     d="M 92.62,300.22 C 87.58,286.03 88.09,264.91 88.17,263.27 C 92.88,160.89 244.52,78.60 430.69,78.60 C 455.02,78.60 478.76,80.00 501.66,82.68" />
+	<ellipse             cx="255.13" cy="42.75" rx="8.5" ry="11.5" transform="scale(2,2)" style="fill:url(#gradient_EL);" />
+	<path class="el"     d="M 510.25,83.74 C 661.06,103.61 773.33,178.69 773.33,268.18 C 773.33,279.90 770.16,297.96 765.58,308.39" />
+	<path class="pl"     d="M 202.27,252.07 C 264.07,226.23 346.96,209.45 414.36,209.45 C 655.89,209.45 719.52,268.13 725.31,308.32" />
+	<path class="fy"     d="M 636.32,75.10 C 687.16,82.21 723.11,101.12 740.67,129.72 C 773.79,183.64 731.55,254.70 653.64,317.20" />
+	<ellipse             cx="99" cy="127.63" rx="15" ry="15" transform="scale(2,2)" style="fill:url(#gradient_Pluto);" />
+	<path class="pl"     d="M 139.74,287.61 C 151.01,278.28 165.36,269.44 181.87,261.31" />
+	<path class="pl sub" d="M 497.80,438.09 L 400,300" />
+	<path class="fy sub" d="M 345.90,457.12 L 400,300" />
+	<path class="el sub" d="M 260.67,432.37 L 400,300" />
+	<path id="ecliptic"  d="M 155.52,298.91 C 155.52,287.54 263.72,278.32 397.22,278.31 C 530.73,278.31 639.01,287.52 639.11,298.89 C 639.22,310.26 531.1,319.49 397.60,319.50 C 264.09,319.51 155.72,310.31 155.52,298.94" />
+	<path class="fy"     d="M 469.92,85.55 L 400,300" />
+	<path class="el"     d="M 597.22,102.91 L 400,300" />
+	<path class="pl sub" d="M 157.55,397.61 C 211.66,429.31 309.33,443.75 419.33,443.75 C 586.51,443.75 723.81,369.75 725.74,315.68 C 725.75,315.29 726.19,312.53 725.32,308.25" />
+	<path id="vernal"    d="M 219.43,326.60 L 400,300" />
+	<path class="pl"     d="M 338.73,215.11 L 400,300" />
+	
+	<g id="labels">
+		<text x="400" y="70"  class="fy">June 2034</text>
+		<text x="440" y="114" class="fy">Q</text>
+		<text x="296" y="484" class="fy sub">Nov. 1879</text>
+		<text x="332" y="442" class="fy sub">q</text>
+		<text x="576" y="156" class="el">Feb. 1991</text>
+		<text x="596" y="130" class="el">Q</text>
+		<text x="182" y="454" class="el sub">Oct. 2133</text>
+		<text x="250" y="420" class="el sub">q</text>
+		<text x="468" y="476" class="pl sub">Sep. 2113</text>
+		<text x="498" y="426" class="pl sub">Q</text>
+		<text x="298" y="206" class="pl">Oct. 1989</text>
+		<text x="326" y="236" class="pl">q</text>
+	</g>
+</svg>

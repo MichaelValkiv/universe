@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="600px" viewBox="0 0 4000 2000" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="m0 0h4e3v2e3h-4e3v-2e3z"/>
+<g stroke="#fff" stroke-width="10">
+	<path d="m3740 125v-75m-260 75v-100m-260 100v-75m-260 75v-100m-260 100v-75m-260 75v-100m-260 100v-75m-260 75v-100m-260 100v-75m-260 75v-100m-260 100v-75m-260 75v-100m-260 100v-75m-260 75v-100" fill="none"/>
+	<path d="m50 500h50m-50 100h35m-35 100h50m-50 100h35m-35 100h50m-50 100h35m-35 100h50m-50 100h35m-35 100h50m-50 100h35m-35 100h50m-50 100h35m-35 100h50" fill="#928"/>
+</g>
+<g fill="#23f">
+	<circle cy="1220" cx="1925" r="5"/>
+	<circle cy="1525" cx="1910" r="5"/>
+	<circle cy="1600" cx="1915" r="5"/>
+</g>
+<g stroke="#23f" stroke-width="5">
+	<g fill="none">
+		<circle cy="1120" cx="2200" r="58"/>
+		<circle cy="1135" cx="2080" r="45"/>
+		<circle cy="1540" cx="2105" r="37.5"/>
+		<circle cy="1355" cx="2065" r="32.5"/>
+		<circle cy="1210" cx="2285" r="27.5"/>
+		<circle cy="1345" cx="2020" r="25"/>
+		<circle cy="1310" cx="2060" r="25"/>
+		<circle cy="1180" cx="2095" r="22.5"/>
+		<circle cy="1455" cx="2210" r="20"/>
+		<circle cy="1185" cx="2095" r="20"/>
+		<circle cy="1265" cx="2230" r="17.5"/>
+		<circle cy="1310" cx="2010" r="15"/>
+		<circle cy="1260" cx="2025" r="15"/>
+		<circle cy="1125" cx="2085" r="15"/>
+		<circle cy="1155" cx="2100" r="15"/>
+		<circle cy="1220" cx="2035" r="12.5"/>
+		<circle cy="1075" cx="2115" r="12.5"/>
+		<circle cy="1150" cx="2095" r="12.5"/>
+		<circle cy="1200" cx="1860" r="12.5"/>
+		<circle cy="1500" cx="2280" r="10"/>
+		<circle cy="1155" cx="2010" r="10"/>
+		<circle cy="1630" cx="2150" r="10"/>
+		<circle cy="1555" cx="2235" r="10"/>
+		<circle cy="1125" cx="2085" r="10"/>
+		<circle cy="1230" cx="2155" r="10"/>
+		<circle cy="1650" cx="2110" r="7.5"/>
+		<circle cy="1640" cx="2185" r="7.5"/>
+		<circle cy="1460" cx="2320" r="7.5"/>
+		<circle cy="1490" cx="2120" r="7.5"/>
+		<circle cy="1150" cx="2135" r="7.5"/>
+		<circle cy="1465" cx="2145" r="7.5"/>
+		<circle cy="1650" cx="2160" r="7.5"/>
+		<circle cy="1410" cx="1785" r="7.5"/>
+		<circle cy="1645" cx="2140" r="7.5"/>
+		<circle cy="1600" cx="2115" r="7.5"/>
+		<circle cy="1595" cx="2135" r="7.5"/>
+		<circle cy="1665" cx="2135" r="7.5"/>
+		<circle cy="1595" cx="2070" r="7.5"/>
+		<circle cy="1675" cx="2065" r="7.5"/>
+		<circle cy="1565" cx="2155" r="7.5"/>
+		<circle cy="1635" cx="2130" r="7.5"/>
+		<circle cy="1175" cx="1960" r="7.5"/>
+		<circle cy="1320" cx="2115" r="7.5"/>
+	</g>
+	<g fill="#23f">
+		<circle cy="740" cx="2115" r="5"/>
+		<circle cy="800" cx="2260" r="5"/>
+		<circle cy="925" cx="2170" r="5"/>
+		<circle cy="1e3" cx="2015" r="5"/>
+		<circle cy="1005" cx="1975" r="5"/>
+		<circle cy="1025" cx="1860" r="5"/>
+		<circle cy="1065" cx="2120" r="5"/>
+		<circle cy="1085" cx="2255" r="5"/>
+		<circle cy="1100" cx="2010" r="5"/>
+		<circle cy="1100" cx="2100" r="5"/>
+		<circle cy="1105" cx="2295" r="5"/>
+		<circle cy="1120" cx="1610" r="5"/>
+		<circle cy="1125" cx="2065" r="5"/>
+		<circle cy="1125" cx="2225" r="5"/>
+		<circle cy="1135" cx="1955" r="5"/>
+		<circle cy="1135" cx="1965" r="5"/>
+		<circle cy="1135" cx="2105" r="5"/>
+		<circle cy="1135" cx="2240" r="5"/>
+		<circle cy="1165" cx="2030" r="5"/>
+		<circle cy="1180" cx="2230" r="5"/>
+		<circle cy="1200" cx="1815" r="5"/>
+		<circle cy="1215" cx="2135" r="5"/>
+		<circle cy="1225" cx="2255" r="5"/>
+		<circle cy="1230" cx="1965" r="5"/>
+		<circle cy="1230" cx="2115" r="5"/>
+		<circle cy="1230" cx="2200" r="5"/>
+		<circle cy="1230" cx="2270" r="5"/>
+		<circle cy="1240" cx="2135" r="5"/>
+		<circle cy="1250" cx="2005" r="5"/>
+		<circle cy="1250" cx="2095" r="5"/>
+		<circle cy="1255" cx="2205" r="5"/>
+		<circle cy="1260" cx="2160" r="5"/>
+		<circle cy="1265" cx="2055" r="5"/>
+		<circle cy="1270" cx="1855" r="5"/>
+		<circle cy="1280" cx="2215" r="5"/>
+		<circle cy="1285" cx="1630" r="5"/>
+		<circle cy="1285" cx="2135" r="5"/>
+		<circle cy="1295" cx="1995" r="5"/>
+		<circle cy="1295" cx="2085" r="5"/>
+		<circle cy="1295" cx="2190" r="5"/>
+		<circle cy="1305" cx="2e3" r="5"/>
+		<circle cy="1305" cx="2120" r="5"/>
+		<circle cy="1305" cx="2215" r="5"/>
+		<circle cy="1305" cx="2295" r="5"/>
+		<circle cy="1310" cx="2150" r="5"/>
+		<circle cy="1310" cx="2275" r="5"/>
+		<circle cy="1310" cx="2285" r="5"/>
+		<circle cy="1315" cx="1995" r="5"/>
+		<circle cy="1315" cx="2275" r="5"/>
+		<circle cy="1355" cx="1955" r="5"/>
+		<circle cy="1355" cx="2030" r="5"/>
+		<circle cy="1355" cx="2085" r="5"/>
+		<circle cy="1360" cx="2235" r="5"/>
+		<circle cy="1365" cx="1990" r="5"/>
+		<circle cy="1365" cx="2320" r="5"/>
+		<circle cy="1380" cx="2065" r="5"/>
+		<circle cy="1385" cx="1965" r="5"/>
+		<circle cy="1385" cx="2280" r="5"/>
+		<circle cy="1390" cx="2200" r="5"/>
+		<circle cy="1395" cx="2160" r="5"/>
+		<circle cy="1395" cx="2190" r="5"/>
+		<circle cy="1410" cx="1565" r="5"/>
+		<circle cy="1410" cx="2005" r="5"/>
+		<circle cy="1415" cx="2050" r="5"/>
+		<circle cy="1425" cx="1740" r="5"/>
+		<circle cy="1425" cx="2190" r="5"/>
+		<circle cy="1430" cx="1980" r="5"/>
+		<circle cy="1435" cx="2065" r="5"/>
+		<circle cy="1440" cx="1865" r="5"/>
+		<circle cy="1445" cx="1995" r="5"/>
+		<circle cy="1450" cx="2090" r="5"/>
+		<circle cy="1455" cx="1980" r="5"/>
+		<circle cy="1460" cx="2195" r="5"/>
+		<circle cy="1465" cx="2130" r="5"/>
+		<circle cy="1470" cx="2080" r="5"/>
+		<circle cy="1470" cx="2140" r="5"/>
+		<circle cy="1480" cx="2230" r="5"/>
+		<circle cy="1485" cx="2165" r="5"/>
+		<circle cy="1485" cx="2260" r="5"/>
+		<circle cy="1490" cx="2095" r="5"/>
+		<circle cy="1490" cx="2250" r="5"/>
+		<circle cy="1495" cx="1985" r="5"/>
+		<circle cy="1495" cx="2095" r="5"/>
+		<circle cy="1495" cx="2180" r="5"/>
+		<circle cy="1500" cx="2010" r="5"/>
+		<circle cy="1500" cx="2030" r="5"/>
+		<circle cy="1500" cx="2090" r="5"/>
+		<circle cy="1500" cx="2245" r="5"/>
+		<circle cy="1505" cx="2135" r="5"/>
+		<circle cy="1510" cx="2040" r="5"/>
+		<circle cy="1515" cx="2250" r="5"/>
+		<circle cy="1520" cx="2140" r="5"/>
+		<circle cy="1520" cx="2275" r="5"/>
+		<circle cy="1525" cx="2080" r="5"/>
+		<circle cy="1535" cx="2025" r="5"/>
+		<circle cy="1535" cx="2205" r="5"/>
+		<circle cy="1540" cx="2090" r="5"/>
+		<circle cy="1540" cx="2095" r="5"/>
+		<circle cy="1540" cx="2115" r="5"/>
+		<circle cy="1545" cx="2080" r="5"/>
+		<circle cy="1550" cx="2120" r="5"/>
+		<circle cy="1550" cx="2160" r="5"/>
+		<circle cy="1550" cx="2170" r="5"/>
+		<circle cy="1555" cx="2070" r="5"/>
+		<circle cy="1560" cx="1670" r="5"/>
+		<circle cy="1560" cx="1690" r="5"/>
+		<circle cy="1560" cx="2160" r="5"/>
+		<circle cy="1560" cx="2310" r="5"/>
+		<circle cy="1565" cx="2060" r="5"/>
+		<circle cy="1565" cx="2090" r="5"/>
+		<circle cy="1570" cx="1635" r="5"/>
+		<circle cy="1570" cx="2065" r="5"/>
+		<circle cy="1580" cx="2035" r="5"/>
+		<circle cy="1580" cx="2095" r="5"/>
+		<circle cy="1580" cx="2190" r="5"/>
+		<circle cy="1580" cx="2215" r="5"/>
+		<circle cy="1585" cx="2105" r="5"/>
+		<circle cy="1585" cx="2145" r="5"/>
+		<circle cy="1585" cx="2150" r="5"/>
+		<circle cy="1590" cx="1825" r="5"/>
+		<circle cy="1590" cx="1845" r="5"/>
+		<circle cy="1590" cx="1860" r="5"/>
+		<circle cy="1590" cx="2180" r="5"/>
+		<circle cy="1595" cx="2160" r="5"/>
+		<circle cy="1595" cx="2235" r="5"/>
+		<circle cy="1600" cx="1845" r="5"/>
+		<circle cy="1600" cx="2080" r="5"/>
+		<circle cy="1600" cx="2095" r="5"/>
+		<circle cy="1600" cx="2125" r="5"/>
+		<circle cy="1600" cx="2140" r="5"/>
+		<circle cy="1600" cx="2245" r="5"/>
+		<circle cy="1600" cx="2260" r="5"/>
+		<circle cy="1600" cx="2270" r="5"/>
+		<circle cy="1605" cx="1815" r="5"/>
+		<circle cy="1605" cx="2085" r="5"/>
+		<circle cy="1605" cx="2105" r="5"/>
+		<circle cy="1605" cx="2125" r="5"/>
+		<circle cy="1605" cx="2200" r="5"/>
+		<circle cy="1605" cx="2205" r="5"/>
+		<circle cy="1605" cx="2225" r="5"/>
+		<circle cy="1605" cx="2275" r="5"/>
+		<circle cy="1610" cx="1770" r="5"/>
+		<circle cy="1610" cx="1820" r="5"/>
+		<circle cy="1610" cx="2045" r="5"/>
+		<circle cy="1610" cx="2065" r="5"/>
+		<circle cy="1610" cx="2100" r="5"/>
+		<circle cy="1610" cx="2120" r="5"/>
+		<circle cy="1610" cx="2130" r="5"/>
+		<circle cy="1610" cx="2155" r="5"/>
+		<circle cy="1610" cx="2185" r="5"/>
+		<circle cy="1610" cx="2190" r="5"/>
+		<circle cy="1615" cx="2070" r="5"/>
+		<circle cy="1615" cx="2090" r="5"/>
+		<circle cy="1615" cx="2140" r="5"/>
+		<circle cy="1615" cx="2160" r="5"/>
+		<circle cy="1615" cx="2245" r="5"/>
+		<circle cy="1620" cx="1830" r="5"/>
+		<circle cy="1620" cx="1850" r="5"/>
+		<circle cy="1620" cx="2025" r="5"/>
+		<circle cy="1620" cx="2075" r="5"/>
+		<circle cy="1620" cx="2120" r="5"/>
+		<circle cy="1620" cx="2125" r="5"/>
+		<circle cy="1620" cx="2135" r="5"/>
+		<circle cy="1620" cx="2185" r="5"/>
+		<circle cy="1620" cx="2255" r="5"/>
+		<circle cy="1620" cx="2290" r="5"/>
+		<circle cy="1625" cx="1730" r="5"/>
+		<circle cy="1625" cx="2095" r="5"/>
+		<circle cy="1625" cx="2130" r="5"/>
+		<circle cy="1625" cx="2135" r="5"/>
+		<circle cy="1625" cx="2140" r="5"/>
+		<circle cy="1625" cx="2145" r="5"/>
+		<circle cy="1625" cx="2175" r="5"/>
+		<circle cy="1625" cx="2200" r="5"/>
+		<circle cy="1625" cx="2255" r="5"/>
+		<circle cy="1625" cx="2270" r="5"/>
+		<circle cy="1625" cx="2280" r="5"/>
+		<circle cy="1630" cx="1835" r="5"/>
+		<circle cy="1630" cx="2025" r="5"/>
+		<circle cy="1630" cx="2060" r="5"/>
+		<circle cy="1630" cx="2065" r="5"/>
+		<circle cy="1630" cx="2075" r="5"/>
+		<circle cy="1630" cx="2085" r="5"/>
+		<circle cy="1630" cx="2105" r="5"/>
+		<circle cy="1630" cx="2110" r="5"/>
+		<circle cy="1630" cx="2115" r="5"/>
+		<circle cy="1630" cx="2125" r="5"/>
+		<circle cy="1630" cx="2160" r="5"/>
+		<circle cy="1630" cx="2215" r="5"/>
+		<circle cy="1630" cx="2280" r="5"/>
+		<circle cy="1635" cx="1650" r="5"/>
+		<circle cy="1635" cx="2050" r="5"/>
+		<circle cy="1635" cx="2070" r="5"/>
+		<circle cy="1635" cx="2075" r="5"/>
+		<circle cy="1635" cx="2085" r="5"/>
+		<circle cy="1635" cx="2090" r="5"/>
+		<circle cy="1635" cx="2120" r="5"/>
+		<circle cy="1635" cx="2130" r="5"/>
+		<circle cy="1635" cx="2150" r="5"/>
+		<circle cy="1635" cx="2160" r="5"/>
+		<circle cy="1635" cx="2170" r="5"/>
+		<circle cy="1635" cx="2175" r="5"/>
+		<circle cy="1635" cx="2190" r="5"/>
+		<circle cy="1635" cx="2250" r="5"/>
+		<circle cy="1635" cx="2280" r="5"/>
+		<circle cy="1635" cx="2320" r="5"/>
+		<circle cy="1640" cx="2065" r="5"/>
+		<circle cy="1640" cx="2080" r="5"/>
+		<circle cy="1640" cx="2085" r="5"/>
+		<circle cy="1640" cx="2100" r="5"/>
+		<circle cy="1640" cx="2125" r="5"/>
+		<circle cy="1640" cx="2135" r="5"/>
+		<circle cy="1640" cx="2140" r="5"/>
+		<circle cy="1640" cx="2180" r="5"/>
+		<circle cy="1640" cx="2185" r="5"/>
+		<circle cy="1640" cx="2195" r="5"/>
+		<circle cy="1640" cx="2265" r="5"/>
+		<circle cy="1645" cx="1525" r="5"/>
+		<circle cy="1645" cx="1850" r="5"/>
+		<circle cy="1645" cx="2060" r="5"/>
+		<circle cy="1645" cx="2065" r="5"/>
+		<circle cy="1645" cx="2075" r="5"/>
+		<circle cy="1645" cx="2085" r="5"/>
+		<circle cy="1645" cx="2110" r="5"/>
+		<circle cy="1645" cx="2125" r="5"/>
+		<circle cy="1645" cx="2130" r="5"/>
+		<circle cy="1645" cx="2135" r="5"/>
+		<circle cy="1645" cx="2140" r="5"/>
+		<circle cy="1645" cx="2145" r="5"/>
+		<circle cy="1645" cx="2150" r="5"/>
+		<circle cy="1645" cx="2155" r="5"/>
+		<circle cy="1645" cx="2160" r="5"/>
+		<circle cy="1645" cx="2190" r="5"/>
+		<circle cy="1645" cx="2230" r="5"/>
+		<circle cy="1650" cx="1655" r="5"/>
+		<circle cy="1650" cx="1800" r="5"/>
+		<circle cy="1650" cx="2025" r="5"/>
+		<circle cy="1650" cx="2050" r="5"/>
+		<circle cy="1650" cx="2065" r="5"/>
+		<circle cy="1650" cx="2075" r="5"/>
+		<circle cy="1650" cx="2100" r="5"/>
+		<circle cy="1650" cx="2110" r="5"/>
+		<circle cy="1650" cx="2125" r="5"/>
+		<circle cy="1650" cx="2130" r="5"/>
+		<circle cy="1650" cx="2140" r="5"/>
+		<circle cy="1650" cx="2145" r="5"/>
+		<circle cy="1650" cx="2155" r="5"/>
+		<circle cy="1650" cx="2160" r="5"/>
+		<circle cy="1650" cx="2215" r="5"/>
+		<circle cy="1650" cx="2220" r="5"/>
+		<circle cy="1655" cx="2065" r="5"/>
+		<circle cy="1655" cx="2075" r="5"/>
+		<circle cy="1655" cx="2085" r="5"/>
+		<circle cy="1655" cx="2095" r="5"/>
+		<circle cy="1655" cx="2100" r="5"/>
+		<circle cy="1655" cx="2105" r="5"/>
+		<circle cy="1655" cx="2110" r="5"/>
+		<circle cy="1655" cx="2125" r="5"/>
+		<circle cy="1655" cx="2130" r="5"/>
+		<circle cy="1655" cx="2135" r="5"/>
+		<circle cy="1655" cx="2145" r="5"/>
+		<circle cy="1655" cx="2160" r="5"/>
+		<circle cy="1655" cx="2200" r="5"/>
+		<circle cy="1655" cx="2205" r="5"/>
+		<circle cy="1655" cx="2210" r="5"/>
+		<circle cy="1655" cx="2215" r="5"/>
+		<circle cy="1655" cx="2250" r="5"/>
+		<circle cy="1660" cx="1775" r="5"/>
+		<circle cy="1660" cx="2060" r="5"/>
+		<circle cy="1660" cx="2070" r="5"/>
+		<circle cy="1660" cx="2080" r="5"/>
+		<circle cy="1660" cx="2085" r="5"/>
+		<circle cy="1660" cx="2125" r="5"/>
+		<circle cy="1660" cx="2130" r="5"/>
+		<circle cy="1660" cx="2140" r="5"/>
+		<circle cy="1660" cx="2150" r="5"/>
+		<circle cy="1660" cx="2155" r="5"/>
+		<circle cy="1660" cx="2180" r="5"/>
+		<circle cy="1660" cx="2195" r="5"/>
+		<circle cy="1660" cx="2205" r="5"/>
+		<circle cy="1665" cx="1655" r="5"/>
+		<circle cy="1665" cx="1860" r="5"/>
+		<circle cy="1665" cx="2060" r="5"/>
+		<circle cy="1665" cx="2070" r="5"/>
+		<circle cy="1665" cx="2075" r="5"/>
+		<circle cy="1665" cx="2085" r="5"/>
+		<circle cy="1665" cx="2090" r="5"/>
+		<circle cy="1665" cx="2095" r="5"/>
+		<circle cy="1665" cx="2105" r="5"/>
+		<circle cy="1665" cx="2115" r="5"/>
+		<circle cy="1665" cx="2140" r="5"/>
+		<circle cy="1665" cx="2150" r="5"/>
+		<circle cy="1665" cx="2165" r="5"/>
+		<circle cy="1665" cx="2170" r="5"/>
+		<circle cy="1665" cx="2180" r="5"/>
+		<circle cy="1665" cx="2185" r="5"/>
+		<circle cy="1665" cx="2190" r="5"/>
+		<circle cy="1665" cx="2205" r="5"/>
+		<circle cy="1665" cx="2245" r="5"/>
+		<circle cy="1665" cx="2250" r="5"/>
+		<circle cy="1670" cx="2045" r="5"/>
+		<circle cy="1670" cx="2055" r="5"/>
+		<circle cy="1670" cx="2060" r="5"/>
+		<circle cy="1670" cx="2070" r="5"/>
+		<circle cy="1670" cx="2075" r="5"/>
+		<circle cy="1670" cx="2090" r="5"/>
+		<circle cy="1670" cx="2100" r="5"/>
+		<circle cy="1670" cx="2110" r="5"/>
+		<circle cy="1670" cx="2135" r="5"/>
+		<circle cy="1670" cx="2150" r="5"/>
+		<circle cy="1670" cx="2165" r="5"/>
+		<circle cy="1670" cx="2190" r="5"/>
+		<circle cy="1670" cx="2200" r="5"/>
+		<circle cy="1670" cx="2300" r="5"/>
+		<circle cy="1675" cx="2040" r="5"/>
+		<circle cy="1675" cx="2045" r="5"/>
+		<circle cy="1675" cx="2080" r="5"/>
+		<circle cy="1675" cx="2095" r="5"/>
+		<circle cy="1675" cx="2105" r="5"/>
+		<circle cy="1675" cx="2110" r="5"/>
+		<circle cy="1675" cx="2115" r="5"/>
+		<circle cy="1675" cx="2120" r="5"/>
+		<circle cy="1675" cx="2130" r="5"/>
+		<circle cy="1675" cx="2135" r="5"/>
+		<circle cy="1675" cx="2140" r="5"/>
+		<circle cy="1675" cx="2145" r="5"/>
+		<circle cy="1675" cx="2150" r="5"/>
+		<circle cy="1675" cx="2220" r="5"/>
+		<circle cy="1680" cx="2070" r="5"/>
+		<circle cy="1680" cx="2085" r="5"/>
+		<circle cy="1680" cx="2110" r="5"/>
+		<circle cy="1680" cx="2115" r="5"/>
+		<circle cy="1680" cx="2120" r="5"/>
+		<circle cy="1680" cx="2130" r="5"/>
+		<circle cy="1680" cx="2135" r="5"/>
+		<circle cy="1680" cx="2140" r="5"/>
+		<circle cy="1680" cx="2145" r="5"/>
+		<circle cy="1680" cx="2150" r="5"/>
+		<circle cy="1680" cx="2170" r="5"/>
+		<circle cy="1680" cx="2190" r="5"/>
+		<circle cy="1680" cx="2280" r="5"/>
+		<circle cy="1680" cx="2295" r="5"/>
+		<circle cy="1685" cx="2060" r="5"/>
+		<circle cy="1685" cx="2070" r="5"/>
+		<circle cy="1685" cx="2110" r="5"/>
+		<circle cy="1685" cx="2115" r="5"/>
+		<circle cy="1685" cx="2125" r="5"/>
+		<circle cy="1685" cx="2130" r="5"/>
+		<circle cy="1685" cx="2135" r="5"/>
+		<circle cy="1685" cx="2140" r="5"/>
+		<circle cy="1685" cx="2160" r="5"/>
+		<circle cy="1690" cx="2055" r="5"/>
+		<circle cy="1690" cx="2085" r="5"/>
+		<circle cy="1690" cx="2135" r="5"/>
+		<circle cy="1690" cx="2165" r="5"/>
+		<circle cy="1690" cx="2300" r="5"/>
+		<circle cy="1695" cx="2135" r="5"/>
+		<circle cy="1695" cx="2150" r="5"/>
+		<circle cy="1695" cx="2210" r="5"/>
+		<circle cy="1695" cx="2265" r="5"/>
+	</g>
+	<path d="m1895 840h415" fill="none"/>
+</g>
+<g fill="#f21">
+	<circle cy="1040" cx="1870" r="5"/>
+	<circle cy="1110" cx="1895" r="5"/>
+	<circle cy="1125" cx="1900" r="5"/>
+	<circle cy="1145" cx="1895" r="5"/>
+	<circle cy="1325" cx="1895" r="5"/>
+	<circle cy="1355" cx="1885" r="5"/>
+	<circle cy="1365" cx="1905" r="5"/>
+	<circle cy="1385" cx="1890" r="5"/>
+	<circle cy="1405" cx="1895" r="5"/>
+	<circle cy="1425" cx="1885" r="5"/>
+	<circle cy="1440" cx="1895" r="5"/>
+	<circle cy="1450" cx="1895" r="5"/>
+	<circle cy="1455" cx="1880" r="5"/>
+	<circle cy="1470" cx="1885" r="5"/>
+	<circle cy="1490" cx="1895" r="5"/>
+	<circle cy="1510" cx="1885" r="5"/>
+	<circle cy="1510" cx="1890" r="5"/>
+	<circle cy="1510" cx="1900" r="5"/>
+	<circle cy="1515" cx="1895" r="5"/>
+	<circle cy="1520" cx="1905" r="5"/>
+	<circle cy="1555" cx="1895" r="5"/>
+	<circle cy="1570" cx="1885" r="5"/>
+	<circle cy="1585" cx="1895" r="5"/>
+	<circle cy="1600" cx="1895" r="5"/>
+	<circle cy="1600" cx="1905" r="5"/>
+	<circle cy="1610" cx="1885" r="5"/>
+	<circle cy="1620" cx="1905" r="5"/>
+	<circle cy="1625" cx="1880" r="5"/>
+	<circle cy="1635" cx="1890" r="5"/>
+	<circle cy="1645" cx="1880" r="5"/>
+	<circle cy="1660" cx="1890" r="5"/>
+	<circle cy="1670" cx="1885" r="5"/>
+	<circle cy="1670" cx="1890" r="5"/>
+	<circle cy="1690" cx="1875" r="5"/>
+</g>
+<g stroke-width="5">
+	<g stroke="#f21">
+		<g fill="none">
+			<path d="m2320 210v75"/>
+			<path d="m2590 210v75"/>
+			<path d="m1405 210v75"/>
+		</g>
+		<path stroke-width="10" d="m3740 130v60m-200-60v80m-210-80v60m-215-60v80m-220-80v60m-230-60v80m-240-80v60m-255-60v80m-265-80v60m-285-60v80m-310-80v60m-350-60v80m-415-80v60" fill="#928"/>
+		<g fill="none">
+			<path d="m3820 130v40m-40-40v40m-80-40v40m-40-40v40m-40-40v40m-40-40v40m-85-40v40m-40-40v40m-40-40v40m-45-40v40m-80-40v40m-45-40v40m-45-40v40m-40-40v40m-90-40v40m-40-40v40m-45-40v40m-45-40v40m-90-40v40m-50-40v40m-45-40v40m-45-40v40m-95-40v40m-45-40v40m-50-40v40m-50-40v40m-95-40v40m-50-40v40m-50-40v40m-55-40v40m-100-40v40m-55-40v40m-50-40v40m-55-40v40m-110-40v40m-60-40v40m-55-40v40m-55-40v40m-120-40v40m-60-40v40m-65-40v40m-60-40v40m-130-40v40m-70-40v40m-70-40v40m-70-40v40m-150-40v40m-80-40v40m-80-40v40m-85-40v40m-190-40v40m-105-40v40m-120-40v40m0-40h3775m-2110 735v115m0-770v115m1890-115v75m-1745-75v75m-380-75v75m1435-75v75m-980-75v75m-375-75v75m985-75v75m-130-75v75m-270-75v75"/>
+			<circle cy="1355" cx="1905" r="88"/>
+			<circle cy="1285" cx="1875" r="35"/>
+			<circle cy="1305" cx="1905" r="30"/>
+			<circle cy="1400" cx="1885" r="25"/>
+			<circle cy="1425" cx="1885" r="25"/>
+			<circle cy="1390" cx="1900" r="17.5"/>
+			<circle cy="1530" cx="1895" r="15"/>
+			<circle cy="1455" cx="1880" r="12.5"/>
+			<circle cy="1250" cx="1895" r="10"/>
+			<circle cy="1335" cx="1895" r="10"/>
+			<circle cy="1430" cx="1880" r="10"/>
+			<circle cy="1395" cx="1895" r="7.5"/>
+			<circle cy="1370" cx="1880" r="7.5"/>
+			<circle cy="995" cx="2710" r="42.5"/>
+			<circle cy="1480" cx="1895" r="10"/>
+			<circle cy="1515" cx="2315" r="7.5"/>
+			<circle cy="1185" cx="2105" r="7.5"/>
+			<circle cy="1465" cx="2310" r="7.5"/>
+			<circle cy="1475" cx="2030" r="7.5"/>
+		</g>
+		<g fill="#f21">
+			<circle cy="1010" cx="1885" r="5"/>
+			<circle cy="1135" cx="1400" r="5"/>
+			<circle cy="1140" cx="1880" r="5"/>
+			<circle cy="1145" cx="2125" r="5"/>
+			<circle cy="1195" cx="3085" r="5"/>
+			<circle cy="1200" cx="1410" r="5"/>
+			<circle cy="1205" cx="1890" r="5"/>
+			<circle cy="1230" cx="2320" r="5"/>
+			<circle cy="1295" cx="3100" r="5"/>
+			<circle cy="1305" cx="1895" r="5"/>
+			<circle cy="1315" cx="1890" r="5"/>
+			<circle cy="1325" cx="1885" r="5"/>
+			<circle cy="1335" cx="1895" r="5"/>
+			<circle cy="1340" cx="2725" r="5"/>
+			<circle cy="1345" cx="1875" r="5"/>
+			<circle cy="1345" cx="1910" r="5"/>
+			<circle cy="1350" cx="1885" r="5"/>
+			<circle cy="1365" cx="1890" r="5"/>
+			<circle cy="1370" cx="1740" r="5"/>
+			<circle cy="1385" cx="1905" r="5"/>
+			<circle cy="1405" cx="1890" r="5"/>
+			<circle cy="1405" cx="2735" r="5"/>
+			<circle cy="1415" cx="1890" r="5"/>
+			<circle cy="1415" cx="2050" r="5"/>
+			<circle cy="1420" cx="1885" r="5"/>
+			<circle cy="1420" cx="2620" r="5"/>
+			<circle cy="1430" cx="2115" r="5"/>
+			<circle cy="1430" cx="2325" r="5"/>
+			<circle cy="1440" cx="1875" r="5"/>
+			<circle cy="1440" cx="1885" r="5"/>
+			<circle cy="1440" cx="2730" r="5"/>
+			<circle cy="1445" cx="2320" r="5"/>
+			<circle cy="1450" cx="2340" r="5"/>
+			<circle cy="1455" cx="1895" r="5"/>
+			<circle cy="1460" cx="1900" r="5"/>
+			<circle cy="1460" cx="2335" r="5"/>
+			<circle cy="1470" cx="1890" r="5"/>
+			<circle cy="1470" cx="2585" r="5"/>
+			<circle cy="1475" cx="2125" r="5"/>
+			<circle cy="1480" cx="1885" r="5"/>
+			<circle cy="1485" cx="1730" r="5"/>
+			<circle cy="1485" cx="1880" r="5"/>
+			<circle cy="1485" cx="2190" r="5"/>
+			<circle cy="1490" cx="1735" r="5"/>
+			<circle cy="1490" cx="1900" r="5"/>
+			<circle cy="1495" cx="2120" r="5"/>
+			<circle cy="1500" cx="2315" r="5"/>
+			<circle cy="1505" cx="1735" r="5"/>
+			<circle cy="1505" cx="1890" r="5"/>
+			<circle cy="1510" cx="2705" r="5"/>
+			<circle cy="1520" cx="1890" r="5"/>
+			<circle cy="1520" cx="1900" r="5"/>
+			<circle cy="1520" cx="2715" r="5"/>
+			<circle cy="1530" cx="1900" r="5"/>
+			<circle cy="1535" cx="1405" r="5"/>
+			<circle cy="1535" cx="1885" r="5"/>
+			<circle cy="1540" cx="2320" r="5"/>
+			<circle cy="1545" cx="2035" r="5"/>
+			<circle cy="1545" cx="2735" r="5"/>
+			<circle cy="1555" cx="2035" r="5"/>
+			<circle cy="1555" cx="2115" r="5"/>
+			<circle cy="1555" cx="2700" r="5"/>
+			<circle cy="1560" cx="2045" r="5"/>
+			<circle cy="1565" cx="1725" r="5"/>
+			<circle cy="1565" cx="1875" r="5"/>
+			<circle cy="1565" cx="1885" r="5"/>
+			<circle cy="1565" cx="1895" r="5"/>
+			<circle cy="1565" cx="2125" r="5"/>
+			<circle cy="1570" cx="1665" r="5"/>
+			<circle cy="1570" cx="1895" r="5"/>
+			<circle cy="1575" cx="2100" r="5"/>
+			<circle cy="1580" cx="1745" r="5"/>
+			<circle cy="1580" cx="1885" r="5"/>
+			<circle cy="1580" cx="1900" r="5"/>
+			<circle cy="1585" cx="1880" r="5"/>
+			<circle cy="1585" cx="1885" r="5"/>
+			<circle cy="1585" cx="3835" r="5"/>
+			<circle cy="1590" cx="1410" r="5"/>
+			<circle cy="1590" cx="1900" r="5"/>
+			<circle cy="1590" cx="1905" r="5"/>
+			<circle cy="1590" cx="2120" r="5"/>
+			<circle cy="1590" cx="2570" r="5"/>
+			<circle cy="1595" cx="1900" r="5"/>
+			<circle cy="1595" cx="2120" r="5"/>
+			<circle cy="1600" cx="1910" r="5"/>
+			<circle cy="1605" cx="1880" r="5"/>
+			<circle cy="1605" cx="1900" r="5"/>
+			<circle cy="1610" cx="2705" r="5"/>
+			<circle cy="1610" cx="2760" r="5"/>
+			<circle cy="1615" cx="1870" r="5"/>
+			<circle cy="1615" cx="2120" r="5"/>
+			<circle cy="1620" cx="1900" r="5"/>
+			<circle cy="1620" cx="2310" r="5"/>
+			<circle cy="1625" cx="1885" r="5"/>
+			<circle cy="1625" cx="1900" r="5"/>
+			<circle cy="1625" cx="2120" r="5"/>
+			<circle cy="1625" cx="2335" r="5"/>
+			<circle cy="1630" cx="1660" r="5"/>
+			<circle cy="1630" cx="2125" r="5"/>
+			<circle cy="1630" cx="2135" r="5"/>
+			<circle cy="1630" cx="2340" r="5"/>
+			<circle cy="1635" cx="1875" r="5"/>
+			<circle cy="1640" cx="1650" r="5"/>
+			<circle cy="1640" cx="1885" r="5"/>
+			<circle cy="1640" cx="1895" r="5"/>
+			<circle cy="1640" cx="2125" r="5"/>
+			<circle cy="1645" cx="2025" r="5"/>
+			<circle cy="1645" cx="2120" r="5"/>
+			<circle cy="1650" cx="1885" r="5"/>
+			<circle cy="1650" cx="1910" r="5"/>
+			<circle cy="1650" cx="2040" r="5"/>
+			<circle cy="1655" cx="2120" r="5"/>
+			<circle cy="1660" cx="1885" r="5"/>
+			<circle cy="1660" cx="1900" r="5"/>
+			<circle cy="1660" cx="1905" r="5"/>
+			<circle cy="1660" cx="2335" r="5"/>
+			<circle cy="1665" cx="2745" r="5"/>
+			<circle cy="1670" cx="1410" r="5"/>
+			<circle cy="1670" cx="1415" r="5"/>
+			<circle cy="1670" cx="1870" r="5"/>
+			<circle cy="1670" cx="1895" r="5"/>
+			<circle cy="1675" cx="2325" r="5"/>
+			<circle cy="1680" cx="2100" r="5"/>
+			<circle cy="1680" cx="2125" r="5"/>
+			<circle cy="1685" cx="2575" r="5"/>
+			<circle cy="1690" cx="2040" r="5"/>
+		</g>
+	</g>
+	<g stroke="#900" fill="none">
+		<circle cy="1690" cx="1865" r="20"/>
+		<circle cy="1505" cx="1870" r="10"/>
+		<circle cy="1430" cx="1875" r="10"/>
+		<circle cy="1450" cx="1900" r="7.5"/>
+		<circle cy="1610" cx="1885" r="5"/>
+		<circle cy="1570" cx="1885" r="5"/>
+		<circle cy="1525" cx="1910" r="5"/>
+		<circle cy="1625" cx="1880" r="5"/>
+		<circle cy="1600" cx="1915" r="5"/>
+		<circle cy="1365" cx="1905" r="5"/>
+		<circle cy="1470" cx="1885" r="5"/>
+		<circle cy="1455" cx="1880" r="5"/>
+		<circle cy="1110" cx="1895" r="5"/>
+		<circle cy="1385" cx="1890" r="5"/>
+		<circle cy="1440" cx="1895" r="5"/>
+		<circle cy="1645" cx="1880" r="5"/>
+		<circle cy="1220" cx="1925" r="5"/>
+		<circle cy="1660" cx="1890" r="5"/>
+		<circle cy="1040" cx="1870" r="5"/>
+		<circle cy="1490" cx="1895" r="5"/>
+		<circle cy="1405" cx="1895" r="5"/>
+		<circle cy="1450" cx="1895" r="5"/>
+		<circle cy="1325" cx="1895" r="5"/>
+		<circle cy="1620" cx="1905" r="5"/>
+		<circle cy="1425" cx="1885" r="5"/>
+		<circle cy="1510" cx="1890" r="5"/>
+		<circle cy="1125" cx="1900" r="5"/>
+		<circle cy="1555" cx="1895" r="5"/>
+		<circle cy="1585" cx="1895" r="5"/>
+		<circle cy="1585" cx="1885" r="5"/>
+		<circle cy="1510" cx="1900" r="5"/>
+		<circle cy="1145" cx="1895" r="5"/>
+		<circle cy="1515" cx="1895" r="5"/>
+		<circle cy="1605" cx="1880" r="5"/>
+		<circle cy="1600" cx="1905" r="5"/>
+		<circle cy="1635" cx="1890" r="5"/>
+		<circle cy="1520" cx="1890" r="5"/>
+		<circle cy="1355" cx="1885" r="5"/>
+		<circle cy="1510" cx="1885" r="5"/>
+		<circle cy="1600" cx="1895" r="5"/>
+		<circle cy="1690" cx="1875" r="5"/>
+		<circle cy="1670" cx="1885" r="5"/>
+		<circle cy="1670" cx="1890" r="5"/>
+		<circle cy="1660" cx="1890" r="5"/>
+		<circle cy="1520" cx="1905" r="5"/>
+	</g>
+	<g stroke="#fe2" fill="#fe2">
+		<circle cy="1230" cx="665" r="10"/>
+		<circle cy="1560" cx="555" r="7.5"/>
+		<circle cy="1285" cx="700" r="7.5"/>
+		<circle cy="1205" cx="900" r="5"/>
+		<circle cy="1395" cx="1045" r="5"/>
+		<circle cy="990" cx="1335" r="5"/>
+		<circle cy="1345" cx="780" r="5"/>
+		<circle cy="1430" cx="1150" r="5"/>
+		<circle cy="1615" cx="1145" r="5"/>
+		<circle cy="1450" cx="1115" r="5"/>
+		<circle cy="1270" cx="670" r="5"/>
+		<circle cy="1560" cx="770" r="5"/>
+		<circle cy="1510" cx="1180" r="5"/>
+		<circle cy="1475" cx="885" r="5"/>
+		<circle cy="1365" cx="990" r="5"/>
+		<circle cy="1635" cx="945" r="5"/>
+		<circle cy="1125" cx="880" r="5"/>
+		<circle cy="1305" cx="925" r="5"/>
+		<circle cy="1550" cx="1170" r="5"/>
+		<circle cy="1290" cx="395" r="5"/>
+		<circle cy="1610" cx="400" r="5"/>
+		<circle cy="1155" cx="610" r="5"/>
+		<circle cy="1440" cx="855" r="5"/>
+		<circle cy="1445" cx="1200" r="5"/>
+		<circle cy="1035" cx="1095" r="5"/>
+		<circle cy="1310" cx="500" r="5"/>
+		<circle cy="1365" cx="1330" r="5"/>
+		<circle cy="1610" cx="1200" r="5"/>
+		<circle cy="1270" cx="1035" r="5"/>
+		<circle cy="970" cx="995" r="5"/>
+		<circle cy="1385" cx="1125" r="5"/>
+		<circle cy="1350" cx="750" r="5"/>
+		<circle cy="865" cx="510" r="5"/>
+		<circle cy="1590" cx="455" r="5"/>
+		<circle cy="1635" cx="1095" r="5"/>
+		<circle cy="1250" cx="985" r="5"/>
+		<circle cy="1510" cx="885" r="5"/>
+		<circle cy="1620" cx="755" r="5"/>
+		<circle cy="845" cx="140" r="5"/>
+		<circle cy="1625" cx="1085" r="5"/>
+		<circle cy="1410" cx="835" r="5"/>
+		<circle cy="1640" cx="860" r="5"/>
+		<circle cy="1325" cx="170" r="5"/>
+		<circle cy="1645" cx="670" r="5"/>
+		<circle cy="1445" cx="1375" r="5"/>
+		<circle cy="1385" cx="275" r="5"/>
+		<circle cy="1e3" cx="1080" r="5"/>
+		<circle cy="860" cx="280" r="5"/>
+		<circle cy="1590" cx="710" r="5"/>
+		<circle cy="1575" cx="1110" r="5"/>
+		<circle cy="1450" cx="350" r="5"/>
+		<circle cy="1e3" cx="330" r="5"/>
+		<circle cy="1460" cx="410" r="5"/>
+		<circle cy="1460" cx="210" r="5"/>
+		<circle cy="560" cx="345" r="5"/>
+		<circle cy="1320" cx="135" r="5"/>
+		<circle cy="1530" cx="160" r="5"/>
+		<circle cy="115" cx="265" r="5"/>
+		<circle cy="1055" cx="405" r="5"/>
+		<circle cy="655" cx="240" r="5"/>
+		<circle cy="1420" cx="200" r="5"/>
+		<circle cy="1175" cx="450" r="5"/>
+		<circle cy="465" cx="455" r="5"/>
+		<circle cy="1110" cx="190" r="5"/>
+		<circle cy="1630" cx="585" r="5"/>
+		<circle cy="1450" cx="390" r="5"/>
+		<circle cy="1525" cx="130" r="5"/>
+		<circle cy="1160" cx="590" r="5"/>
+		<circle cy="1510" cx="185" r="5"/>
+		<circle cy="1530" cx="140" r="5"/>
+		<circle cy="1380" cx="250" r="5"/>
+		<circle cy="1570" cx="220" r="5"/>
+		<circle cy="1545" cx="200" r="5"/>
+		<circle cy="985" cx="430" r="5"/>
+		<circle cy="990" cx="155" r="5"/>
+		<circle cy="1635" cx="165" r="5"/>
+		<circle cy="1500" cx="295" r="5"/>
+		<circle cy="845" cx="630" r="5"/>
+		<circle cy="1210" cx="215" r="5"/>
+		<circle cy="1580" cx="205" r="5"/>
+		<circle cy="510" cx="1215" r="5"/>
+		<circle cy="1615" cx="855" r="5"/>
+		<circle cy="1225" cx="425" r="5"/>
+		<circle cy="1310" cx="765" r="5"/>
+		<circle cy="1680" cx="150" r="5"/>
+		<path d="m1395 1e3h-255m-935 0h415"/>
+	</g>
+	<g stroke="#888">
+		<g fill="#ddd">
+			<circle cy="1355" cx="2545" r="5"/>
+			<circle cy="1285" cx="3315" r="5"/>
+			<circle cy="1265" cx="2445" r="5"/>
+			<circle cy="1200" cx="2390" r="5"/>
+			<circle cy="1320" cx="2630" r="5"/>
+			<circle cy="1080" cx="2365" r="5"/>
+			<circle cy="1295" cx="2810" r="5"/>
+			<circle cy="1565" cx="2715" r="5"/>
+			<circle cy="1440" cx="3455" r="5"/>
+			<circle cy="1305" cx="2795" r="5"/>
+			<circle cy="1125" cx="2870" r="5"/>
+			<circle cy="920" cx="2615" r="5"/>
+			<circle cy="1565" cx="3155" r="5"/>
+			<circle cy="1665" cx="2535" r="5"/>
+			<circle cy="1380" cx="2625" r="5"/>
+			<circle cy="1330" cx="2695" r="5"/>
+			<circle cy="1675" cx="2665" r="5"/>
+			<circle cy="1675" cx="2475" r="5"/>
+			<circle cy="1250" cx="2740" r="5"/>
+			<circle cy="1145" cx="3095" r="5"/>
+			<circle cy="1580" cx="2715" r="5"/>
+			<circle cy="1570" cx="3095" r="5"/>
+			<circle cy="1305" cx="2925" r="5"/>
+			<circle cy="1355" cx="2585" r="5"/>
+			<circle cy="1615" cx="3400" r="5"/>
+			<circle cy="1395" cx="2570" r="5"/>
+			<circle cy="1380" cx="3535" r="5"/>
+			<circle cy="1385" cx="2175" r="5"/>
+			<circle cy="1540" cx="3115" r="5"/>
+			<circle cy="1435" cx="2745" r="5"/>
+			<circle cy="1260" cx="3630" r="5"/>
+			<circle cy="1580" cx="3055" r="5"/>
+			<circle cy="1625" cx="2395" r="5"/>
+			<circle cy="1305" cx="2940" r="5"/>
+			<circle cy="1540" cx="3775" r="5"/>
+			<circle cy="1300" cx="2875" r="5"/>
+			<circle cy="1365" cx="2405" r="5"/>
+			<circle cy="1125" cx="2655" r="5"/>
+			<circle cy="1210" cx="2345" r="5"/>
+			<circle cy="1630" cx="3075" r="5"/>
+			<circle cy="1560" cx="2510" r="5"/>
+			<circle cy="1425" cx="2330" r="5"/>
+			<circle cy="1390" cx="3495" r="5"/>
+			<circle cy="1535" cx="3880" r="5"/>
+			<circle cy="140" cx="3300" r="5"/>
+			<circle cy="1570" cx="3865" r="5"/>
+			<circle cy="1625" cx="3435" r="5"/>
+			<circle cy="1685" cx="2540" r="5"/>
+			<circle cy="1390" cx="3080" r="5"/>
+			<circle cy="1375" cx="2740" r="5"/>
+			<circle cy="1275" cx="2400" r="5"/>
+			<circle cy="1325" cx="3530" r="5"/>
+			<circle cy="1580" cx="2395" r="5"/>
+			<circle cy="1065" cx="3115" r="5"/>
+			<circle cy="345" cx="3175" r="5"/>
+			<circle cy="325" cx="2585" r="5"/>
+		</g>
+		<g fill="none">
+			<path d="m4e3 500h-1665"/>
+			<path d="m25 1750h1225v200h-1225v-200z"/>
+			<circle cy="1815" cx="725" r="22.5"/>
+			<circle cy="1815" cx="850" r="15"/>
+			<circle cy="1815" cx="975" r="7.5"/>
+			<circle cy="1815" cx="1100" r="5"/>
+			<circle cy="815" cx="3370" r="100"/>
+			<circle cy="1310" cx="3340" r="27.5"/>
+			<circle cy="765" cx="2820" r="22.5"/>
+			<circle cy="1230" cx="3640" r="20"/>
+			<circle cy="1680" cx="2530" r="12.5"/>
+			<circle cy="1545" cx="2710" r="10"/>
+			<circle cy="1170" cx="3810" r="10"/>
+			<circle cy="1565" cx="2430" r="10"/>
+			<circle cy="1455" cx="2355" r="10"/>
+			<circle cy="1300" cx="2830" r="10"/>
+			<circle cy="1460" cx="2410" r="10"/>
+			<circle cy="1495" cx="2335" r="7.5"/>
+			<circle cy="1695" cx="2575" r="7.5"/>
+			<circle cy="1355" cx="2545" r="5"/>
+			<circle cy="1285" cx="3315" r="5"/>
+			<circle cy="1265" cx="2445" r="5"/>
+			<circle cy="1200" cx="2390" r="5"/>
+			<circle cy="1320" cx="2630" r="5"/>
+			<circle cy="1080" cx="2365" r="5"/>
+			<circle cy="1295" cx="2810" r="5"/>
+			<circle cy="1565" cx="2715" r="5"/>
+			<circle cy="1440" cx="3455" r="5"/>
+			<circle cy="1305" cx="2795" r="5"/>
+			<circle cy="1125" cx="2870" r="5"/>
+			<circle cy="920" cx="2615" r="5"/>
+			<circle cy="1565" cx="3155" r="5"/>
+			<circle cy="1665" cx="2535" r="5"/>
+			<circle cy="1380" cx="2625" r="5"/>
+			<circle cy="1330" cx="2695" r="5"/>
+			<circle cy="1675" cx="2665" r="5"/>
+			<circle cy="1675" cx="2475" r="5"/>
+			<circle cy="1250" cx="2740" r="5"/>
+			<circle cy="1145" cx="3095" r="5"/>
+			<circle cy="1580" cx="2715" r="5"/>
+			<circle cy="1570" cx="3095" r="5"/>
+			<circle cy="1305" cx="2925" r="5"/>
+			<circle cy="1355" cx="2585" r="5"/>
+			<circle cy="1615" cx="3400" r="5"/>
+			<circle cy="1395" cx="2570" r="5"/>
+			<circle cy="1380" cx="3535" r="5"/>
+			<circle cy="1385" cx="2175" r="5"/>
+			<circle cy="1540" cx="3115" r="5"/>
+			<circle cy="1435" cx="2745" r="5"/>
+			<circle cy="1260" cx="3630" r="5"/>
+			<circle cy="1580" cx="3055" r="5"/>
+			<circle cy="1625" cx="2395" r="5"/>
+			<circle cy="1305" cx="2940" r="5"/>
+			<circle cy="1540" cx="3775" r="5"/>
+			<circle cy="1300" cx="2875" r="5"/>
+			<circle cy="1365" cx="2405" r="5"/>
+			<circle cy="1125" cx="2655" r="5"/>
+			<circle cy="1210" cx="2345" r="5"/>
+			<circle cy="1630" cx="3075" r="5"/>
+			<circle cy="1560" cx="2510" r="5"/>
+			<circle cy="1425" cx="2330" r="5"/>
+			<circle cy="1390" cx="3495" r="5"/>
+			<circle cy="1535" cx="3880" r="5"/>
+			<circle cy="140" cx="3300" r="5"/>
+			<circle cy="1570" cx="3865" r="5"/>
+			<circle cy="1625" cx="3435" r="5"/>
+			<circle cy="1685" cx="2540" r="5"/>
+			<circle cy="1390" cx="3080" r="5"/>
+			<circle cy="1375" cx="2740" r="5"/>
+			<circle cy="1275" cx="2400" r="5"/>
+			<circle cy="1325" cx="3530" r="5"/>
+			<circle cy="1580" cx="2395" r="5"/>
+			<circle cy="1065" cx="3115" r="5"/>
+			<circle cy="345" cx="3175" r="5"/>
+			<circle cy="325" cx="2585" r="5"/>
+		</g>
+	</g>
+	<path d="m1405 1921h2595m-3662-106c0 20.7-16.8 37.5-37.5 37.5s-37.5-16.8-37.5-37.5 16.8-37.5 37.5-37.5 37.5 16.8 37.5 37.5zm-170-1470c0 6.9-5.6 12.5-12.5 12.5s-12.5-5.6-12.5-12.5 5.6-12.5 12.5-12.5 12.5 5.6 12.5 12.5zm-117 1355v-1200m-50 1200h4e3m-2595-179.9v-304.7m0-1085v987m-565-987v1570m-505-1570v1570m3610-1575v-50m-50 50v-50m-55 50v-50m-50 50v-50m-105 50v-50m-50 50v-50m-55 50v-50m-50 50v-50m-105 50v-50m-50 50v-50m-55 50v-50m-50 50v-50m-105 50v-50m-50 50v-50m-55 50v-50m-50 50v-50m-105 50v-50m-50 50v-50m-50 50v-50m-55 50v-50m-105 50v-50m-50 50v-50m-50 50v-50m-55 50v-50m-105 50v-50m-50 50v-50m-50 50v-50m-55 50v-50m-105 50v-50m-50 50v-50m-50 50v-50m-55 50v-50m-100 50v-50m-55 50v-50m-50 50v-50m-55 50v-50m-100 50v-50m-55 50v-50m-50 50v-50m-55 50v-50m-100 50v-50m-55 50v-50m-50 50v-50m-55 50v-50m-100 50v-50m-55 50v-50m-50 50v-50m-50 50v-50m-105 50v-50m-55 50v-50m-50 50v-50m-50 50v-50m-105 50v-50m-55 50v-50m-50 50v-50m-50 50v-50m-105 50v-50m-55 50v-50m-50 50v-50m0 50h3795" stroke="#fff" fill="none"/>
+</g>
+<g font-family="Arial, sans-serif">
+	<g fill="#fff">
+		<g font-size="60">
+			<g font-weight="bold">
+				<text y="65" x="3775" font-size="75">a [AU]</text>
+				<text y="65" x="370">10</text>
+				<text y="65" x="890">20</text>
+				<text y="65" x="1410">30</text>
+				<text y="65" x="1930">40</text>
+				<text y="65" x="2450">50</text>
+				<text y="65" x="2970">60</text>
+				<text y="65" x="3490">70</text>
+			</g>
+			<text y="1515" x="125">10</text>
+			<text y="1315" x="125">20</text>
+			<text y="1115" x="125">30</text>
+			<text y="915" x="125">40</text>
+			<text y="715" x="125">50</text>
+			<text y="515" x="125">60</text>
+		</g>
+		<g font-size="100">
+			<text y="400" x="50">i [</text>
+			<text y="400" x="180">]</text>
+		</g>
+		<g font-size="50">
+			<text y="1925" x="200">1000km</text>
+			<text y="1925" x="150">D</text>
+			<text y="1925" x="600">H</text>
+			<text y="1925" x="700">3.0</text>
+			<text y="1925" x="825">4.0</text>
+			<text y="1925" x="950">5.0</text>
+			<text y="1925" x="1075">6.0</text>
+		</g>
+	</g>
+	<g fill="#f21">
+		<g font-size="50">
+			<g font-style="italic">
+				<text y="270" x="1370">1</text>
+				<text y="270" x="1415">1</text>
+				<text y="270" x="1620">4</text>
+				<text y="270" x="1665">5</text>
+				<text y="270" x="1700">3</text>
+				<text y="270" x="1745">4</text>
+				<text y="270" x="1855">2</text>
+				<text y="270" x="1900">3</text>
+				<text y="270" x="2e3">3</text>
+				<text y="270" x="2045">5</text>
+				<text y="270" x="2075">4</text>
+				<text y="270" x="2120">7</text>
+				<text y="270" x="2285">1</text>
+				<text y="270" x="2330">2</text>
+				<text y="270" x="2555">3</text>
+				<text y="270" x="2600">7</text>
+				<text y="270" x="2685">2</text>
+				<text y="270" x="2730">5</text>
+				<text y="270" x="3055">1</text>
+				<text y="270" x="3100">3</text>
+				<text y="270" x="3745">1</text>
+				<text y="270" x="3790">4</text>
+			</g>
+			<text y="210" x="970">100</text>
+			<text y="210" x="1630">200</text>
+			<text y="210" x="2180">300</text>
+			<text y="210" x="2675">400</text>
+			<text y="210" x="3125">500</text>
+			<text y="210" x="3550">600</text>
+		</g>
+		<text y="955" x="2750" font-size="60">2002 TC</text>
+		<text y="985" x="2985" font-size="50">302</text>
+		<text y="210" x="3825" font-size="75">P [y]</text>
+		<g fill="#888">
+			<text y="1270" x="3340" font-size="40">2006 QH</text>
+			<text y="1290" x="3500" font-size="30">181</text>
+			<text y="735" x="2820" font-size="40">2004 XR</text>
+			<text y="755" x="2980" font-size="30">190</text>
+			<text y="1190" x="3490" font-size="40">2007 UK</text>
+			<text y="1210" x="3650" font-size="30">126</text>
+		</g>
+	</g>
+	<use xlink:href="#p" stroke="#000" stroke-width="25"/>
+	<switch allowReorder="yes">
+		<g systemLanguage="de">
+			<g fill="#fff">
+				<g id="p" font-size="100">
+					<text y="430" x="310">S</text>
+					<text y="515" x="310">A</text>
+					<text y="600" x="310">T</text>
+					<text y="685" x="310">U</text>
+					<text y="770" x="310">R</text>
+					<text y="855" x="310">N</text>
+					<text y="430" x="815">U</text>
+					<text y="515" x="815">R</text>
+					<text y="600" x="815">A</text>
+					<text y="685" x="815">N</text>
+					<text y="770" x="815">U</text>
+					<text y="855" x="815">S</text>
+					<text y="430" x="1380">N</text>
+					<text y="515" x="1380">E</text>
+					<text y="600" x="1380">P</text>
+					<text y="685" x="1380">T</text>
+					<text y="770" x="1380">U</text>
+					<text y="855" x="1380">N</text>
+				</g>
+				<text font-size="140px" text-anchor="middle" y="1900" x="2593" font-style="italic">Transneptunische Objekte</text>
+			</g>
+			<g font-size="60">
+				<g fill="#23f">
+					<text y="1035" x="2175">Makemake</text>
+					<text y="1070" x="1925">Haumea</text>
+				</g>
+				<g fill="#f21">
+					<text y="400" x="1875">P</text>
+					<text y="460" x="1875">L</text>
+					<text y="520" x="1875">U</text>
+					<text y="580" x="1875">T</text>
+					<text y="640" x="1885">I</text>
+					<text y="700" x="1875">N</text>
+					<text y="760" x="1875">O</text>
+					<text y="820" x="1875">S</text>
+					<text y="1250" x="1700">Orcus</text>
+				</g>
+			</g>
+			<text y="1380" x="1640" font-size="75" fill="#f21">Pluto</text>
+			<g font-size="60" fill="#fe2">
+				<text y="1205" x="650">Chariklo</text>
+				<text y="1540" x="530">Chiron</text>
+			</g>
+			<g font-size="100" font-style="italic">
+				<text y="1025" x="660" fill="#fe2">Zentauren</text>
+				<g fill="#23f">
+					<text y="830" x="1972">Kuiper</text>
+					<text y="930" x="2025">Gürtel</text>
+				</g>
+			</g>
+			<g fill="#888">
+				<text y="695" x="3310" font-size="75">Eris</text>
+				<text font-size="100" y="485" x="3150" text-anchor="middle" font-style="italic" fill="#888">Gestreute Kuipergürtelobjekte</text>
+			</g>
+		</g>
+		<g systemLanguage="en">
+			<g fill="#fff">
+				<g id="p" font-size="100">
+					<text y="430" x="310">S</text>
+					<text y="515" x="310">A</text>
+					<text y="600" x="310">T</text>
+					<text y="685" x="310">U</text>
+					<text y="770" x="310">R</text>
+					<text y="855" x="310">N</text>
+					<text y="430" x="815">U</text>
+					<text y="515" x="815">R</text>
+					<text y="600" x="815">A</text>
+					<text y="685" x="815">N</text>
+					<text y="770" x="815">U</text>
+					<text y="855" x="815">S</text>
+					<text y="430" x="1380">N</text>
+					<text y="515" x="1380">E</text>
+					<text y="600" x="1380">P</text>
+					<text y="685" x="1380">T</text>
+					<text y="770" x="1380">U</text>
+					<text y="855" x="1380">N</text>
+					<text y="940" x="1380">E</text>
+				</g>
+				<text y="1900" x="2593" font-size="140" text-anchor="middle" font-style="italic">Trans-Neptunian objects</text>
+			</g>
+			<g font-size="60">
+				<g fill="#23f">
+					<text y="1035" x="2175">Makemake</text>
+					<text y="1070" x="1925">Haumea</text>
+				</g>
+				<g fill="#f21">
+					<text y="400" x="1875">P</text>
+					<text y="460" x="1875">L</text>
+					<text y="520" x="1875">U</text>
+					<text y="580" x="1875">T</text>
+					<text y="640" x="1885">I</text>
+					<text y="700" x="1875">N</text>
+					<text y="760" x="1875">O</text>
+					<text y="820" x="1875">S</text>
+					<text y="1250" x="1700">Orcus</text>
+				</g>
+			</g>
+			<text y="1380" x="1640" font-size="75" fill="#f21">Pluto</text>
+			<g font-size="60" fill="#fe2">
+				<text y="1205" x="650">Chariklo</text>
+				<text y="1540" x="530">Chiron</text>
+			</g>
+			<g font-size="100" font-style="italic">
+				<text y="1025" x="660" fill="#fe2">Centaurs</text>
+				<g fill="#23f">
+					<text y="830" x="1972">Kuiper</text>
+					<text y="930" x="2025">Belt</text>
+				</g>
+			</g>
+			<g fill="#888">
+				<text y="695" x="3310" font-size="75">Eris</text>
+				<text y="485" x="3100" font-size="100" text-anchor="middle" font-style="italic">Scattered disk</text>
+			</g>
+		</g>
+	</switch>
+</g>
+</svg>
